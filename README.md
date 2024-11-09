@@ -15,7 +15,7 @@
 
 
  <a href="https://www.instagram.com/jl.marqu3s/" target="_blank">
-    <img src="https://github.com/jmarqu3s/jmarqu3s/blob/main/fotoinsta.png" />        
+    <img src="https://github.com/jmarqu3s/jmarqu3s/blob/main/insta.png" />        
   </a>&nbsp;&nbsp;
    <br>
    <br>
